@@ -1,0 +1,15 @@
+.post_date{
+width:74px;
+height:65px;
+float:left;
+text-align:center;
+padding:17px 0 0 0;
+background:url(images/date_bg.gif) no-repeat center;
+}
+.footer_logos{
+width:242px;
+height:114px;
+float:left;
+background:url(images/footer_logos.gif) no-repeat right top;
+padding:0 0 0 190px;
+}
